@@ -6,6 +6,7 @@ feel free to use this bot for you university porject
 این یه ربات ساده تلگرامه که اسم فیلم یا سریال میگیره و امتیاز اونو تو imdb برمیگردونه.  
 میتونید از این ربات برای پروژه دانشگاتون استفاده کنید.
 
+![bot chat sample](/preview.png)
 # how to run
 1. install requirements by `pip install -r requirements.txt` command
 2. rename config.py.sample to config.py
